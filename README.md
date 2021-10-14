@@ -13,3 +13,6 @@ A repo containing links to all the things I use in my dev environment
 - [Hyper!!!! - This is goated](https://hyper.is/)
 - [Dark Theme for Windows Terminal](https://draculatheme.com/windows-terminal)
 - [Dark theme for Hyper](https://draculatheme.com/hyper)
+
+## Wallpapers!
+- [Dracula Theme](https://draculatheme.com/wallpaper)
