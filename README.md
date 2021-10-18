@@ -8,6 +8,7 @@ A repo containing links to all the things I use in my dev environment
 - [Python in VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - [Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheatsheet-a5.pdf)
 
 ## Terminal Stuff!
 - [Hyper!!!! - This is goated](https://hyper.is/)
