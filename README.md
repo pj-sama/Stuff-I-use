@@ -1,5 +1,5 @@
 # Stuff-I-use
-A repo containing links to all the things I use in my dev environment
+A repo containing links to all the things I use in my dev environment and used along my tech journey.
 
 ## VS Code!
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
