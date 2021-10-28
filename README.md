@@ -17,3 +17,9 @@ A repo containing links to all the things I use in my dev environment
 
 ## Wallpapers!
 - [Dracula Theme](https://draculatheme.com/wallpaper)
+
+## Learning Resources I've used!
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Grid Garden](https://codepip.com/games/grid-garden/)
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [FrontEnd Simplified](https://frontendsimplified.com/)
