@@ -24,3 +24,7 @@ A repo containing links to all the things I use in my dev environment and used a
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [FrontEnd Simplified](https://frontendsimplified.com/)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheatsheet-a5.pdf)
+
+## OSX Stuff
+- [TopNotch](https://topnotch.app/)
+- [Rectangle](https://rectangleapp.com/)
