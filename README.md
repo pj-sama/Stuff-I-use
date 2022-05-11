@@ -9,6 +9,18 @@ A repo containing links to all the things I use in my dev environment and used a
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - [Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
 
+## Cheatsheets!
+- [Emmet](https://docs.emmet.io/cheat-sheet/)
+- [html](https://htmlcheatsheet.com/html/)
+- [css](https://htmlcheatsheet.com/css/)
+- [js](https://htmlcheatsheet.com/js/)
+- [Git](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+- [Python](https://www.pythoncheatsheet.org/)
+- [Bootstrap](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+- [React.js](https://devhints.io/react)
+- [Rails](https://pagertree.com/2021/01/12/rails-cheat-sheet/)
+- [Rails](https://pagertree.com/2021/01/12/rails-cheat-sheet/)
+
 
 ## Terminal Stuff!
 - [Hyper!!!! - This is goated](https://hyper.is/)
