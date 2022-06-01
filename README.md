@@ -29,6 +29,7 @@ A repo containing links to all the things I use in my dev environment and used a
 
 ## Wallpapers!
 - [Dracula Theme](https://draculatheme.com/wallpaper)
+- [Animated Backgrounds for Web Dev](https://animatedbackgrounds.me/)
 
 ## Learning Resources I've used!
 - [Flexbox Froggy](http://flexboxfroggy.com/)
